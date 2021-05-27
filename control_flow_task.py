@@ -25,4 +25,3 @@ elif (age < 10 ):
 
 print(str(input("Thank you, please type 'exit' to exit the terminal: ")))
 
-# print ("Please enter the movie you would  ")
