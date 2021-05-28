@@ -106,7 +106,7 @@ while user_prompt:
         print("Please provide your answer in digits: ")
 print(f"Your age is {age}")
 
-# The process continues to keep going until the the condition evaluates to false then at this point, it will provide you with your output.
+# The process continues to keep going until the the condition evaluates to false then at this point, it will provide you with your output
 ```
 ```python
 # practice example
